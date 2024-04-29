@@ -12,3 +12,5 @@ Este é um projeto de uma galeria simples desenvolvida como parte de um curso so
 
 - Exibição de uma galeria de imagens de forma simples e elegante.
 - Responsividade para se adaptar a diferentes tamanhos de tela.
+
+[Visualize o projeto! ](https://devsamuel06.github.io/Gallery/)
